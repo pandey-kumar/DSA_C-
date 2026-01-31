@@ -1,0 +1,13 @@
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
+int main() {
+    int m;
+    int n;
+    cin>>m>>n;
+    if(n%m==0){
+        cout<<"Yes";
+    }else{
+        cout<<"No";
+    }
+}

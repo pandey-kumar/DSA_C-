@@ -1,0 +1,1 @@
+{"name":"Local: 07_countNumbers","url":"d:\\D_S_A\\02_loops\\07_countNumbers.cpp","tests":[{"id":1769149087938,"input":"5\n-2 0 3 7 -5","output":"2\n2\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\02_loops\\07_countNumbers.cpp","group":"local","local":true}
