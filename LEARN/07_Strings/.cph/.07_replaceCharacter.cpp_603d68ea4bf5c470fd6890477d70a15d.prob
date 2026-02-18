@@ -1,0 +1,1 @@
+{"name":"Local: 07_replaceCharacter","url":"d:\\D_S_A\\LEARN\\07_Strings\\07_replaceCharacter.cpp","tests":[{"id":1771450549563,"input":"abacaba\na b\n","output":"bbbcbbb\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\07_Strings\\07_replaceCharacter.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 09_trimSpaces","url":"d:\\D_S_A\\LEARN\\07_Strings\\09_trimSpaces.cpp","tests":[{"id":1771451022707,"input":"abc def g hi\n","output":"abcdefghi\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\07_Strings\\09_trimSpaces.cpp","group":"local","local":true}

@@ -7,7 +7,7 @@
 			"com.tldraw.asset": 1,
 			"com.tldraw.camera": 1,
 			"com.tldraw.document": 2,
-			"com.tldraw.instance": 25,
+			"com.tldraw.instance": 26,
 			"com.tldraw.instance_page_state": 5,
 			"com.tldraw.page": 1,
 			"com.tldraw.instance_presence": 6,
@@ -1034,9 +1034,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 3294.2987840459114,
-			"y": 901.6731748093652,
-			"z": 0.06586576809898687,
+			"x": 2629.1188329577803,
+			"y": -2590.2747114147232,
+			"z": 0.19409998789761349,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -2329,9 +2329,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:QQ3gpCUSC_K9oi0bCbykl"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -4278,7 +4276,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 531.3333740234375,
+				"w": 1062,
 				"h": 605.3333740234375
 			},
 			"insets": [
@@ -4296,12 +4294,13 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.5,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": null,
+			"isHoveringCanvas": false,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,
+			"cameraState": "moving",
 			"id": "instance:instance",
 			"currentPageId": "page:page",
 			"typeName": "instance"
