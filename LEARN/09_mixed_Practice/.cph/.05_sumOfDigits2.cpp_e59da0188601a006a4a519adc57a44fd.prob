@@ -1,0 +1,1 @@
+{"name":"Local: 05_sumOfDigits2","url":"d:\\D_S_A\\LEARN\\09_mixed_Practice\\05_sumOfDigits2.cpp","tests":[{"id":1772678449527,"input":"1000000000000000000003\n","output":"4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\09_mixed_Practice\\05_sumOfDigits2.cpp","group":"local","local":true}

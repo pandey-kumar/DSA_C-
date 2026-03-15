@@ -6,9 +6,8 @@ Algo :-
 max=arr[0]
 sec_max=-1;
 
-will check if arr[i]>max  then make sec_max=max and max=arr[i];
-
-
+> traverse and find max element
+> traverse and find sec_max element it should be less then max
 
 */
 
