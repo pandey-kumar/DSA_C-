@@ -1,0 +1,1 @@
+{"name":"Local: 01_ResultDay","url":"d:\\D_S_A\\PRACTICE\\Contests\\contest-2\\01_ResultDay.cpp","tests":[{"id":1774242045413,"input":"5\n45 60 30 80 50\n50\n","output":"Pass: 3\nFail: 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\PRACTICE\\Contests\\contest-2\\01_ResultDay.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 03_CountingIntervals","url":"d:\\D_S_A\\LEARN\\10_T&SComplexity\\03_CountingIntervals.cpp","tests":[{"id":1774164897835,"input":"4\n1 2 7\n2 2 7\n3 2 7\n4 2 7\n","output":"4\n5\n5\n6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\10_T&SComplexity\\03_CountingIntervals.cpp","group":"local","local":true}

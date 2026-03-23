@@ -1,0 +1,1 @@
+{"name":"Local: 07_PrintFactors","url":"d:\\D_S_A\\LEARN\\10_T&SComplexity\\07_PrintFactors.cpp","tests":[{"id":1774193138634,"input":"12\n","output":"1 2 3 4 6 12 "},{"id":1774193148641,"input":"103\n","output":"1 103"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\10_T&SComplexity\\07_PrintFactors.cpp","group":"local","local":true}

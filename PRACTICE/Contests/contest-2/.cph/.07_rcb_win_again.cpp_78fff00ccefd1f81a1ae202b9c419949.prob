@@ -1,0 +1,1 @@
+{"name":"Local: 07_rcb_win_again","url":"d:\\D_S_A\\PRACTICE\\Contests\\contest-2\\07_rcb_win_again.cpp","tests":[{"id":1774263728138,"input":"6\n10 20 30 40 50 60\n","output":"30 40 20 50 10 60\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\PRACTICE\\Contests\\contest-2\\07_rcb_win_again.cpp","group":"local","local":true}

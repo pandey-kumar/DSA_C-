@@ -1,0 +1,1 @@
+{"name":"Local: 08_kthFactor","url":"d:\\D_S_A\\LEARN\\10_T&SComplexity\\08_kthFactor.cpp","tests":[{"id":1774193974032,"input":"12 3","output":"3"},{"id":1774193978438,"input":"103 3 ","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\10_T&SComplexity\\08_kthFactor.cpp","group":"local","local":true}

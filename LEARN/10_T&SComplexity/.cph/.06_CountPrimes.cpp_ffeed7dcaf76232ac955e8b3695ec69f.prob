@@ -1,0 +1,1 @@
+{"name":"Local: 06_CountPrimes","url":"d:\\D_S_A\\LEARN\\10_T&SComplexity\\06_CountPrimes.cpp","tests":[{"id":1774192727642,"input":"10","output":"4"},{"id":1774192732855,"input":"100","output":"25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\10_T&SComplexity\\06_CountPrimes.cpp","group":"local","local":true}
