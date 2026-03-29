@@ -1,0 +1,1 @@
+{"name":"Local: 12_sumOfAllSubArraysMedium","url":"d:\\D_S_A\\LEARN\\11_PSumAndArrayTechniques\\12_sumOfAllSubArraysMedium.cpp","tests":[{"id":1774794550295,"input":"3\n1 2 3\n","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\11_PSumAndArrayTechniques\\12_sumOfAllSubArraysMedium.cpp","group":"local","local":true}

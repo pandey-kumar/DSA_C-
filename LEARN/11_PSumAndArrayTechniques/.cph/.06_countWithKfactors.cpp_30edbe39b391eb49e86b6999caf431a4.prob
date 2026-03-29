@@ -1,0 +1,1 @@
+{"name":"Local: 06_countWithKfactors","url":"d:\\D_S_A\\LEARN\\11_PSumAndArrayTechniques\\06_countWithKfactors.cpp","tests":[{"id":1774598397326,"input":"5 3 4\n6 9 10 15 16\n1 3\n2 5\n1 5\n","output":"2\n2\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\11_PSumAndArrayTechniques\\06_countWithKfactors.cpp","group":"local","local":true}
