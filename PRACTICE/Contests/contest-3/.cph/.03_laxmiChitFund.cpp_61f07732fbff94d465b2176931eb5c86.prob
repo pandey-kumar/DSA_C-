@@ -1,0 +1,1 @@
+{"name":"Local: 03_laxmiChitFund","url":"d:\\D_S_A\\PRACTICE\\Contests\\contest-3\\03_laxmiChitFund.cpp","tests":[{"id":1777311515193,"input":"5\n1000 2000 1500 3000 2500\n","output":"10000 3000 1000 2000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\PRACTICE\\Contests\\contest-3\\03_laxmiChitFund.cpp","group":"local","local":true}

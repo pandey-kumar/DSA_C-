@@ -1,0 +1,1 @@
+{"name":"Local: 01_countDistinct","url":"d:\\D_S_A\\LEARN\\12_setsAndMaps\\01_countDistinct.cpp","tests":[{"id":1774983529479,"input":"8\n1 2 2 3 2 4 4 4\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\D_S_A\\LEARN\\12_setsAndMaps\\01_countDistinct.cpp","group":"local","local":true}
